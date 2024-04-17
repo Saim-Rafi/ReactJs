@@ -1,0 +1,29 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "Learning ReactJs ",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saim-Rafi/ReactJs.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Saim Rafi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saim-Rafi/ReactJs/issues"
+  },
+  "homepage": "https://github.com/Saim-Rafi/ReactJs#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
